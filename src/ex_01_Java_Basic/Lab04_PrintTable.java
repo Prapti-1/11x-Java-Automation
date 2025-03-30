@@ -14,5 +14,6 @@ public class Lab04_PrintTable {
         System.out.printf("Multiplication of %d * 9 = %d%n",a , a*9);
         System.out.printf("Multiplication of %d * 10 = %d%n",a , a*10);
 
+
     }
 }
